@@ -1,11 +1,11 @@
 # *Conservation and loss of essential genes across the bacterial phylogeny*
-## Nashira H. Ridgeway
-## *Presented at ISMB/ECCB 2025 in Liverpool, UK*
+## [Nashira H. Ridgeway](Nashira_Ridgeway_Resume_063025.pdf)
+### *Presented at ISMB/ECCB 2025 in Liverpool, UK*
 
 ### [Code on GitHub](https://github.com/nashirag/)
-[*Escherichia coli* Essential Gene Assembly]()
-[*Bacillus subtilis* Essential Gene Assembly]()
-[OrthoDB Ortholog Search]()
+[*Escherichia coli* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/E_coli_Essential_Gene_Compilation.ipynb)
+[*Bacillus subtilis* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/B_subtilis_Essential_Gene_Compilation.ipynb)
+[OrthoDB Ortholog Search](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/OrthoDB_GeneFinding.ipynb)
 
 ### Related Links
 - [Nashira's CV](Nashira_Ridgeway_Resume_063025.pdf)
