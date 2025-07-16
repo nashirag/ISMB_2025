@@ -4,8 +4,11 @@
 
 ### [Code on GitHub](https://github.com/nashirag/)
 [*Escherichia coli* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/E_coli_Essential_Gene_Compilation.ipynb)
+
 [*Bacillus subtilis* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/B_subtilis_Essential_Gene_Compilation.ipynb)
+
 [OrthoDB Ortholog Search](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/OrthoDB_GeneFinding.ipynb)
+
 
 ### Related Links
 - [Nashira's CV](Nashira_Ridgeway_Resume_063025.pdf)
