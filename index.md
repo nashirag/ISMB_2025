@@ -2,7 +2,7 @@
 ## [Nashira H. Ridgeway](Nashira_Ridgeway_Resume_063025.pdf)
 ### *Presented at ISMB/ECCB 2025 in Liverpool, UK*
 ***
-### [Project-Related Code (GitHub)](https://github.com/nashirag/)
+### [Project-Related Code (GitHub)](https://github.com/nashirag/Essential_Gene_Conservation)
 [*Escherichia coli* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/E_coli_Essential_Gene_Compilation.ipynb)<br>
 [*Bacillus subtilis* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/B_subtilis_Essential_Gene_Compilation.ipynb)<br>
 [OrthoDB Ortholog Search](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/OrthoDB_GeneFinding.ipynb)
