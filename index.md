@@ -1,22 +1,24 @@
 # *Conservation and loss of essential genes across the bacterial phylogeny*
 ## [Nashira H. Ridgeway](Nashira_Ridgeway_Resume_063025.pdf)
 ### *Presented at ISMB/ECCB 2025 in Liverpool, UK*
-
-### [Code on GitHub](https://github.com/nashirag/)
-[*Escherichia coli* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/E_coli_Essential_Gene_Compilation.ipynb)
-
-[*Bacillus subtilis* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/B_subtilis_Essential_Gene_Compilation.ipynb)
-
+***
+### [Project-Related Code (GitHub)](https://github.com/nashirag/)
+[*Escherichia coli* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/E_coli_Essential_Gene_Compilation.ipynb)<br>
+[*Bacillus subtilis* Essential Gene Assembly](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/B_subtilis_Essential_Gene_Compilation.ipynb)<br>
 [OrthoDB Ortholog Search](https://github.com/nashirag/Essential_Gene_Conservation/blob/main/OrthoDB_GeneFinding.ipynb)
 
 
 ### Related Links
 - [Nashira's CV](Nashira_Ridgeway_Resume_063025.pdf)
-- [Hospital Swabbing Metagenomics Project](CSM_Poster_June2025_PortraitFormat_outlinedForPrint.pdf)
-- [Applying Machine Learning to Enzyme-Specific Post-translational Modification Prediction](CEEHRC_Nov2023_V3_outlined_27x40.pdf)
 - [Nashira's GitHub](https://github.com/nashirag)
 - [Nashira's LinkedIn](https://linkedin.com/in/NashiraRidgeway)
 
+### Past Presentations
+- [Hospital Swabbing Metagenomics Project with CUBE Ontario - Currently Underway](CSM_Poster_June2025_PortraitFormat_outlinedForPrint.pdf)
+- [Applying Machine Learning to Enzyme-Specific Post-translational Modification Prediction - Completed](CEEHRC_Nov2023_V3_outlined_27x40.pdf)
+
+
+***
 ### References
 **[1]** Baba, T.; Ara, T.; Hasegawa, M.; Takai, Y.; Okumura, Y.; Baba, M.; Datsenko, K. A.; Tomita, M.; Wanner, B. L.; Mori, H. Construction of Escherichia Coli K‐12 In‐frame, Single‐gene Knockout Mutants: The Keio Collection. Molecular Systems Biology 2006, 2 (1). https://doi.org/10.1038/msb4100050.
 
